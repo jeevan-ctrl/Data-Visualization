@@ -16,4 +16,4 @@ genre : Show genre
 Conclusion of scatterplot based data visualization:
 Assert "Are we certain that movies are getting shorter?"
 Based on the above scatter plot, visualization shows in each gere movie length was decreased comparatively
---INSERT--
+
